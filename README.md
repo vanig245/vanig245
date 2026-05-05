@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋, I'm Vani Gupta
+
+
+
+* 👯 Open to collaborating on innovative AI/ML and GenAI projects (LLMs, RAG, AI Agents)
+* 🤔 Exploring scalable ML systems and advanced AI agent workflows
+* 💬 Happy to discuss Deep Learning, Computer Vision, NLP, and real-world AI projects
+* 📫 Reach me at: [vani.gupta2405@gmail.com](mailto:vani.gupta2405@gmail.com)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=vanig245\&label=Profile%20views\&color=0e75b6\&style=for-the-badge)
 
 ## 💻 Tech Stack:
 
@@ -42,6 +52,15 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge\&logo=intellijidea)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge\&logo=pycharm)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=white)
+
+
+
+
+## 🌐 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vani%20Gupta-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vani-gupta-840736293)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/MSc7ZS1566/)
 
 <!--
 **vanig245/vanig245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
