@@ -1,4 +1,5 @@
-                                                  ## Hi there 👋, I'm Vani Gupta
+<h1 align="center">Hi there 👋, I'm Vani Gupta</h1>
+<h3 align="center">AI/ML | Generative AI | Building Real-World Intelligent Systems</h3>
 
 
 
