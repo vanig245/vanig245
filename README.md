@@ -1,4 +1,5 @@
-## Hi there 👋, I'm Vani Gupta
+                                                  ## Hi there 👋, I'm Vani Gupta
+
 
 
 
@@ -61,6 +62,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vani%20Gupta-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vani-gupta-840736293)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/MSc7ZS1566/)
+
 
 <!--
 **vanig245/vanig245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
