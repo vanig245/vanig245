@@ -1,17 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Vani Gupta</h1>
 <h3 align="center">AI/ML | Generative AI | Building Real-World Intelligent Systems</h3>
 
-
-
-
-
-
+<br><br>
 
 * 👯 Open to collaborating on innovative AI/ML and GenAI projects (LLMs, RAG, AI Agents)
 * 🤔 Exploring scalable ML systems and advanced AI agent workflows
 * 💬 Happy to discuss Deep Learning, Computer Vision, NLP, and real-world AI projects
 * 📫 Reach me at: [vani.gupta2405@gmail.com](mailto:vani.gupta2405@gmail.com)
 
+<br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vanig245\&label=Profile%20views\&color=0e75b6\&style=for-the-badge)
 
