@@ -4,6 +4,9 @@
 
 
 
+
+
+
 * 👯 Open to collaborating on innovative AI/ML and GenAI projects (LLMs, RAG, AI Agents)
 * 🤔 Exploring scalable ML systems and advanced AI agent workflows
 * 💬 Happy to discuss Deep Learning, Computer Vision, NLP, and real-world AI projects
